@@ -2,7 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["upload.wikimedia.org", "links.papareacr.com", "www.pngfind.com"],
+    domains: [
+      "upload.wikimedia.org",
+      "links.papareacr.com",
+      "www.pngfind.com",
+      "image.tmdb.org",
+    ],
   },
 };
 
